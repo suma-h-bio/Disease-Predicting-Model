@@ -1,4 +1,3 @@
-#5th Model extented Gradient boosting+ Ada boosting
 # ==============================
 # FINAL MODEL: SMOTE + PIPELINE + THRESHOLD + BOOSTING
 # ==============================
