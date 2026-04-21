@@ -29,7 +29,7 @@ SGOT                  -     3.14
 Alkaline Phosphatase  -     0.94   
 
 
-## 🔬 Feature Analysis
+## Feature Analysis
 
 A correlation heatmap was used to understand relationships between features.
 
@@ -41,7 +41,7 @@ Instead of removing correlated features, **all features were retained** because:
 * More features improved predictive performance
 * Helps preserve biological/clinical relevance
 
-## ⚙️ Machine Learning Models Used
+## Machine Learning Models Used
 
 * Logistic Regression
 * Decision Tree
